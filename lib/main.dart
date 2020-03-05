@@ -8,9 +8,7 @@ import './result.dart';
 //import './answer.dart';
 import './quiz.dart';
 
-void main() {
-  runApp(new MyApp());
-}
+void main() => runApp(MyApp());
 
 //STATELESS_WIDGET
 
