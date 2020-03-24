@@ -9,7 +9,7 @@ import './result.dart';
 import './quiz.dart';
 
 void main() {
-  runApp(new MyApp());
+  runApp(MyApp());
 }
 
 //STATELESS_WIDGET
